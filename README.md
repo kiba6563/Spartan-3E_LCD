@@ -3,7 +3,9 @@ LCD controller development on Spartan-3E FPGA board using Verilog code.
 
 ## Structure
 <i><b> top_lcd1.v: </b></i> Top module
+</br>
 <i><b> lcd_controller.v: </b></i> LCD controller module
+</br>
 <i><b> LCD_UCF.ucf: </b></i> Physical constraints
 
 ## Tools
