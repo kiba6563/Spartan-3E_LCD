@@ -16,4 +16,4 @@ LCD controller development on Spartan-3E FPGA board using Verilog code.
 ![Capture](https://user-images.githubusercontent.com/127403893/226331294-a2f5bfae-1d67-4e17-a69a-6c5918816d58.JPG)
 
 ## Simulation
-![Capture](https://user-images.githubusercontent.com/127403893/226330485-0d07b986-0e73-4129-b8aa-f6a33e43c8e6.JPG)
+![Capture](https://user-images.githubusercontent.com/127403893/226372829-9a200fd1-5015-4a2f-b9c3-32757e4d4430.JPG)
